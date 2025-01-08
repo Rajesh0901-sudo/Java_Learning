@@ -10,6 +10,7 @@ public class App {
         System.out.println("Username is: " + userName);  // Output user input
 
         Math m = new Math();
+        
         m.printData();
     }
 }
